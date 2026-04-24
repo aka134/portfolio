@@ -1,2 +1,0 @@
-1.This is my Practical 11 submission.
-2.Verified by GPG and SSH.
